@@ -4,7 +4,7 @@
 {    
 int n, reverse=0, rem;    
 printf("Enter a number: ");    
-  scanf("%d", &n);    
+  n=123;
   while(n!=0)    
   {    
      rem=n%10;    
